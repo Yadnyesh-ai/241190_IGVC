@@ -1,2 +1,2 @@
 # 241190_IGVC
-Q. 2 is solved
+Q.1 and Q. 2 is solved
